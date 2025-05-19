@@ -36,7 +36,7 @@ const questions = [
 		]
 	},
 	{
-		question: "In which year did the Philippines gain independence fro the United States?",
+		question: "In which year did the Philippines gain independence from the United States?",
 		answers: [
 			{text: "1898", correct: false},
 			{text: "1941", correct: false},
